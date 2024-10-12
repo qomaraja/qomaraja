@@ -2,27 +2,27 @@
 <h3 align="center">Innovative Fullstack Developer | Passionate about Creating Impactful Solutions</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=ff69b4&style=flat-square" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=qomaraja&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-blue" alt="Focus: Web Development" />
   <img src="https://img.shields.io/badge/Loves-Creative%20Coding-green" alt="Loves: Creative Coding" />
 </p>
 
 - 🔭 **Currently working on:** Full-stack projects with modern frameworks.
 - 🌱 **Exploring:** Next.js and others.
-- 💬 **Ask me about:** JavaScript, PHP and others.
+- 💬 **Ask me about:** JavaScript, PHP, and others.
 - 🎯 **Fun Goal:** Build a community-driven open-source project.
 
 ---
 
 <h3 align="left">🌐 Let's Connect</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/qomar-udin-941210195/" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
-  <a href="https://facebook.com/yourusername" target="_blank" style="text-decoration: none;">
+  <a href="https://facebook.com/qomartop" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="30"/>
   </a>
-  <a href="https://instagram.com/yourusername" target="_blank" style="text-decoration: none;">
+  <a href="https://www.instagram.com/san_qomar03/" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="30"/>
   </a>
 </p>
@@ -75,7 +75,7 @@
 ---
 
 ## 📜 Certifications & Achievements
-- **Certifcate of Appreciation** - Binar 101 (Full-Stack Web Development)
+- **Certificate of Appreciation** - Binar 101 (Full-Stack Web Development)
 - **Hehe**
 
 ## 📊 GitHub Stats
